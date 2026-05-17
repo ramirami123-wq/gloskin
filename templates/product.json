@@ -47,7 +47,7 @@
         "liquid_8BBykj": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n<span style=\"font-weight: bold;\">🕶️ Adjustable Tint Technology</span> – Easily adapt your lenses to different lighting conditions for maximum comfort and visibility.<br><br>\n\n<span style=\"font-weight: bold;\">☀️ UV400 Sun Protection</span> – Protect your eyes from harmful UV rays and reduce glare while outdoors.<br><br>\n\n<span style=\"font-weight: bold;\">✨ Stylish & Durable Design</span> – Premium aluminum alloy frame with a modern luxury look made for everyday wear.\n</div>"
+            "liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n<span style=\"font-weight: bold;\">💖 Deep Hydration & Nourishment</span> – Infused with collagen, peptides, and hyaluronic acid to deeply moisturize and refresh dry, tired skin.<br><br>\n\n<span style=\"font-weight: bold;\">✨ Firming & Anti-Aging Care</span> – Helps improve skin elasticity, reduce the appearance of fine lines, and leave your skin looking smoother and younger.<br><br>\n\n<span style=\"font-weight: bold;\">🌸 Soft Hydrogel Comfort</span> – Lightweight hydrogel material fits comfortably on the skin, allowing ingredients to absorb effectively for a glowing finish.\n</div>"
           }
         },
         "rating": {
@@ -136,7 +136,7 @@
       "name": "Scrolling text",
       "settings": {
         "full_width": true,
-        "text": "See the world in style",
+        "text": "Glow naturally, shine confidently",
         "text_size": "xsmall",
         "text_style": "fill",
         "scrolling_mode": "auto",
@@ -153,10 +153,11 @@
         "item_pUAUTj": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/1777293242_php38jvv1ekv0hh337jY9c.jpg",
             "icon": "none",
             "icon_width": 48,
-            "title": "Adjustable Tint Technology",
-            "content": "<p>Experience clear vision in every environment with lenses that adapt to changing light conditions for maximum comfort.</p><h3></h3>"
+            "title": "Radiant Skin Starts Here",
+            "content": "<p>Give your skin the hydration and nourishment it deserves with our Bio-Collagen Face Mask. Designed to refresh and revitalize tired skin, it leaves your face feeling soft, smooth, and naturally glowing.</p><h3></h3><h3></h3>"
           }
         }
       },
@@ -182,7 +183,7 @@
       "name": "Scrolling text",
       "settings": {
         "full_width": true,
-        "text": "Smart shades for every moment.",
+        "text": "Healthy skin is always in.",
         "text_size": "xsmall",
         "text_style": "fill",
         "scrolling_mode": "auto",
@@ -199,10 +200,11 @@
         "item_7ffkaP": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/1777293242_php41ibuht64p4p5I13IEK.jpg",
             "icon": "none",
             "icon_width": 48,
-            "title": "Premium Style & Protection",
-            "content": "<p>Designed with a durable aluminum frame and UV400 protection to keep you stylish while protecting your eyes outdoors.</p>"
+            "title": "Deep Care for Every Glow",
+            "content": "<p>Packed with collagen, peptides, and hyaluronic acid, this premium hydrogel mask helps improve skin elasticity and lock in moisture for a healthier, brighter appearance after every use.</p>"
           }
         }
       },
@@ -245,11 +247,11 @@
         "headings_V3BEJw": {
           "type": "headings",
           "settings": {
-            "heading_1": "Heading 1",
-            "heading_2": "Heading 2",
-            "heading_3": "Heading 3",
-            "heading_4": "",
-            "heading_5": "",
+            "heading_1": "Deep Hydration",
+            "heading_2": "Collagen Infused",
+            "heading_3": "Helps Reduce Fine Lines",
+            "heading_4": "Soft Hydrogel Material",
+            "heading_5": "Brightens Skin Glow",
             "heading_6": "",
             "heading_7": "",
             "heading_8": "",
@@ -271,11 +273,11 @@
           "type": "values",
           "settings": {
             "product": "",
-            "value_1": "<p>Value 1</p>",
-            "value_2": "<p>Value 2</p>",
-            "value_3": "<p>Value 3</p>",
-            "value_4": "",
-            "value_5": "",
+            "value_1": "<p>✓ </p>",
+            "value_2": "<p>✓ </p>",
+            "value_3": "<p>✓ </p>",
+            "value_4": "<p>✓ </p>",
+            "value_5": "<p>✓</p>",
             "value_6": "",
             "value_7": "",
             "value_8": "",
@@ -299,11 +301,11 @@
           "type": "values",
           "settings": {
             "product": "",
-            "value_1": "<p>Value 1</p>",
-            "value_2": "<p>Value 2</p>",
-            "value_3": "<p>Value 3</p>",
-            "value_4": "",
-            "value_5": "",
+            "value_1": "<p>✗ </p>",
+            "value_2": "<p>✗</p>",
+            "value_3": "<p>✗ </p>",
+            "value_4": "<p>✗</p>",
+            "value_5": "<p>✗ </p>",
             "value_6": "",
             "value_7": "",
             "value_8": "",
@@ -333,7 +335,7 @@
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "Why Us?",
+        "title": "Why Choose Us?",
         "content": "",
         "button_text": "",
         "button_url": "",
@@ -342,8 +344,8 @@
         "view_all_text": "View all",
         "view_less_text": "View less",
         "view_product": "View",
-        "show_product_info": true,
-        "show_product_swatch": true,
+        "show_product_info": false,
+        "show_product_swatch": false,
         "viewing_product": "",
         "background": "",
         "background_gradient": "",
@@ -364,28 +366,28 @@
           "type": "item",
           "settings": {
             "title": "How does the adjustable tint work?",
-            "content": "<p><br/>The lenses adapt to different lighting conditions, helping reduce glare and improve visibility outdoors.<br/></p>"
+            "content": "<p><br/>For best results, use 2–3 times per week or whenever your skin needs extra hydration.<br/><br/></p>"
           }
         },
         "item_8yizQD": {
           "type": "item",
           "settings": {
-            "title": "Are the sunglasses suitable for both men and women?",
-            "content": "<p><br/>Yes, the modern round design is made to suit both men and women.<br/><br/></p>"
+            "title": "Is it suitable for all skin types?",
+            "content": "<p><br/>Yes, the Bio-Collagen Face Mask is designed to be gentle and suitable for most skin types.<br/><br/></p>"
           }
         },
         "item_Apj6NA": {
           "type": "item",
           "settings": {
-            "title": "Do these sunglasses provide UV protection?",
-            "content": "<p><br/>Yes, the sunglasses offer UV400 protection against harmful sun rays.<br/><br/></p>"
+            "title": "Does it help with dry skin?",
+            "content": "<p><br/>Leave it on for about 15–20 minutes to allow the ingredients to fully absorb into your skin.<br/><br/></p>"
           }
         },
         "item_tK9h6f": {
           "type": "item",
           "settings": {
             "title": "What material is the frame made from?",
-            "content": "<p>The frame is made from durable aluminum alloy for long-lasting comfort and strength.</p>"
+            "content": "<p><br/> Yes, the mask deeply hydrates and helps restore moisture to dry and tired skin.<br/><br/></p>"
           }
         }
       },
